@@ -1,0 +1,7 @@
+<?php
+function sidehustle(){
+$a=array(5,15,25);
+echo array_sum($a);
+}
+sidehustle();
+?>
